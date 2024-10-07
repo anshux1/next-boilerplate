@@ -43,6 +43,6 @@ Welcome to the Next.js boilerplate! This template comes pre-configured with Shad
 
    To start the app locally, run the following command:
     ```bash
-    pnpm devel
+    pnpm dev
 
 This will start the development server on http://localhost:3000.
